@@ -4,7 +4,7 @@
 #sudo pip3 install Adafruit_DHT
 #By: Cristian Garcia
 
-import Adafruit_DHT
+#import Adafruit_DHT
 import time
 
 sensor_dht = Adafruit_DHT.DHT11
