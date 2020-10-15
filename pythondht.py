@@ -1,3 +1,9 @@
+#Importar la librería de adafruit para poder utilizar el sensor DHT11 o DHT22
+#Si no se tiene instalada esta librería no se puede importar y por tanto no funciona el código
+#Descargar la librería de adafruit con el siguiente comando desde la terminal
+#sudo pip3 install Adafruit_DHT
+#By: Cristian Garcia
+
 import Adafruit_DHT
 import time
 
