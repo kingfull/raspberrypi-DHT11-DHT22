@@ -3,7 +3,7 @@
 #Descargar la librería de adafruit con el siguiente comando desde la terminal
 #sudo pip3 install Adafruit_DHT
 #By: Cristian Garcia
-
+""" 
 import Adafruit_DHT
 import time
 
@@ -17,3 +17,4 @@ while True:
     else:
         print("Falla en la lectura")
     time.sleep(3)
+ """
